@@ -2,7 +2,9 @@ import React, { useEffect, useState } from "react";
 import "./Book.css";
 import axios from "axios";
 import Book from "./Book";
-const URL = "http://localhost:5000/books";
+import apiUrl from "../../apiConfig";
+
+const URL = `${apiUrl}/books`;
 const fetchHandler = async () => {
   return await axios.get(URL).then((res) => res.data);
 };
@@ -27,3 +29,5 @@ const Books = () => {
 };
 
 export default Books;
+
+//const URL = "http://localhost:5000/books";
