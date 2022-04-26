@@ -52,6 +52,13 @@ Features of the Library include:
 ## API
 - Free Bing News Rapid API
 
+## Technologies Used
+- React
+- Mongoose
+- Express
+- Node
+- Material UI
+
 ## MVP
 - Web app built as an SPA(single-page app)
 - Use MongoDB to perform basic CRUD operation
