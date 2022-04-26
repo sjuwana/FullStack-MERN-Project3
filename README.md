@@ -38,60 +38,36 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-With ' react-typical ' installation issues, run 
-#### `npm install react-typical --legacy-peer-deps` 
-
-only if there is an error message with :
-#### `npm install react-typical`
-
-With ' react-typical ' installation issues, run 
-#### `npm i react-google-maps --legacy-peer-deps` 
-
-only if there is an error message with :
-#### `npm i react-google-maps `
-
-
-Below is for 'react-slideshow' installation
-#### "npm install react-slideshow-image -S"
-Resouces for 'react-slideshow':
-    1) https://www.npmjs.com/package/react-slideshow-image
-
-2) https://react-slideshow.herokuapp.com/
-
-
 
 ## Header List
 
-Features of JAGS Brewery include:
+Features of the Library include:
 
-- List of breweries in the United States
-- Latest news update about breweries
-- Search functionality to find a brewery
-- Dark mode function to change the background color
+- Home page
+- Books management system
+- Books list
+- News search for librarian
+- About Us
 
-## APIs
-
-- Free Brewery API: https://api.openbrewerydb.org/breweries
-- Free News API:  https://newsapi.org/v2/everything?q=%22breweries%22&apiKey=78d6a44281ba47a89942ef488d051240
-- Register and retrieve API token from GoogleMAP API
+## API
+- Free Bing Search API
 
 ## MVP
 - Web app built as an SPA(single-page app)
-- Use atleast one API to call and display information
+- Use MongoDB to perform basic CRUD operation
+- Use one API to do News search and display information
 - Contact Us
-- Search Bar
 - React Frontend
 - Flexbox
-- Nicely styled and ready for a portfolio
 - Deployed on Netlifly
-- Robust commit history
 - Code is correctly indented and well styled
 - Readme created
 
 ## Post-MVP Goals
-- Expand the Google MAP function
-- Likes/Dislikes
-- Message boards
+- Authentication
+- Books borrowing/lending system
+- Books review
+- Feedback or comment
 
 ## Component Hierarchy
 
