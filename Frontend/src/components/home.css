@@ -1,0 +1,32 @@
+.header {
+  margin-top: 60px;
+}
+
+.headerTitles {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: white;
+}
+
+.headerTitleSm {
+  position: absolute;
+  top: 25%;
+  font-size: 30px;
+}
+
+.headerTitleLg {
+  position: absolute;
+  top: 20%;
+  font-size: 50px;
+}
+
+.headerImg {
+  width: 100%;
+  height: 550px;
+  margin-top: 50px;
+  object-fit: cover;
+  align-items: center;
+}
