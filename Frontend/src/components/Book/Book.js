@@ -2,12 +2,14 @@ import { Button } from "@mui/material";
 import axios from "axios";
 import { Link, useNavigate } from "react-router-dom";
 import "./Book.css";
+import apiUrl from "../../apiConfig";
+
 const Book = (props) => {
   const history = useNavigate();
   const { _id, name, author, description, isbn, image } = props.book;
   const deleteHandler = async () => {
     await axios
-      .delete(`http://localhost:5000/books/${_id}`)
+      .delete(`${apiUrl}/books/${_id}`)
       .then((res) => res.data)
       .then(() => history("/"))
       .then(() => history("/books"));
@@ -31,3 +33,5 @@ const Book = (props) => {
 };
 
 export default Book;
+
+//   .delete(`http://localhost:5000/books/${_id}`)

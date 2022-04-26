@@ -10,6 +10,7 @@ import { Box } from "@mui/system";
 import axios from "axios";
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
+import apiUrl from "../apiConfig";
 
 const AddBook = () => {
   const history = useNavigate();
@@ -32,7 +33,7 @@ const AddBook = () => {
 
   const sendRequest = async () => {
     await axios
-      .post("http://localhost:5000/books", {
+      .post(`${apiUrl}/books`, {
         name: String(inputs.name),
         author: String(inputs.author),
         description: String(inputs.description),
@@ -124,3 +125,5 @@ const AddBook = () => {
 };
 
 export default AddBook;
+
+// "http://localhost:5000/books"
