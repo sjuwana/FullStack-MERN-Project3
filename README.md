@@ -8,30 +8,20 @@
 
 We chose to create a Beer Industry guideline because we love beers. JAGS Brewery is the go to place for finding all things-related to Beer Brewery.
 
-<p style="text-align: justify"><em>“Fermentation may have been a greater discovery than fire”</em></p>
-<p style="text-align: right">― David Rains Wallace</p>
+<p style="text-align: justify"><em>“Libraries store the energy that fuels the imagination. They open up windows to the world and inspire us to explore and achieve, and contribute to improving our quality of life.”</em></p>
+<p style="text-align: right">― Sidney Sheldon</p>
+
 
 <hr>
 
 
 # &nbsp;Overview
 
-## How We Built JAGS website
+## Building the Library Project 
 
-The project was designed using a combination several technologies such as React, JS, CSS, Google API map and News API. Further, we also use Coolers.io to pick images, Material UI to help design the front-end, BrandCrowd for logo design, and Trello to as our project management app. We developed this project in two weeks.  
+The project was designed using a combination several technologies such as React, JS, CSS, Google API map and News API. Further, we also use Coolers.io to pick images, Material UI to help design the front-end, BrandCrowd for logo design, and Trello to as our project management app. This project was developed in 10 days.  
 
-
-## JAGS team
-
-- Janet Nieto,
-- Aylin Guillen,
-- Godbless Amankwah,
-- Stephanus Juwana
-
-<p style="text-align: justify"><em>“if you want to go fast, go alone; if you want to go far, go together.”</em></p>
-<p style="text-align: right">― African proverbs</p>
-
-
+Stephanus Juwana
 
 ## Things to install to run this website
 
