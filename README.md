@@ -29,6 +29,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Clone this app in the project directory and run 
 
+For both Backend and Frontend, do the followings: 
+
 #### `npm install` 
 
 In the project directory, you can run:
