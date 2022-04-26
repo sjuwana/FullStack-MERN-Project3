@@ -19,7 +19,7 @@ I choose to create a book management system for librarian to keep track of the b
 
 ## Building the Library Project 
 
-The project was designed using a combination several technologies such as HTML, JS, CSS, React, Search API. Further, Material UI was used to to help design the front-end and Trello to as a project management app. This project was developed in 10 days.  
+The project was designed using a combination several technologies such as HTML, JS, CSS, React, News API. Further, Material UI was used to to help design the front-end and Trello to as a project management app. This project was developed in 10 days.  
 
 Stephanus Juwana
 
@@ -50,7 +50,7 @@ Features of the Library include:
 - About Us
 
 ## API
-- Free Bing Search API
+- Free Bing News Rapid API
 
 ## MVP
 - Web app built as an SPA(single-page app)
