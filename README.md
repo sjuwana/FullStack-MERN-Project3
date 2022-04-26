@@ -6,7 +6,7 @@
 </p>
 <br/>
 
-We chose to create a Beer Industry guideline because we love beers. JAGS Brewery is the go to place for finding all things-related to Beer Brewery.
+I choose to create a book management system for librarian to keep track of the book database. The goal is to have a full book management system incorporating books borrowing and lending just like a real library.  
 
 <p style="text-align: justify"><em>“Libraries store the energy that fuels the imagination. They open up windows to the world and inspire us to explore and achieve, and contribute to improving our quality of life.”</em></p>
 <p style="text-align: right">― Sidney Sheldon</p>
