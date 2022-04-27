@@ -68,7 +68,7 @@ Features of the Library include:
 - Contact Us
 - React Frontend
 - Flexbox
-- Deployed on Netlifly
+- Deployed on Netllify for Frontend and Heroku for Backend
 - Code is correctly indented and well styled
 - Readme created
 
