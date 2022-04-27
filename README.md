@@ -61,6 +61,21 @@ Features of the Library include:
 - Node
 - Material UI
 
+## Dependencies 
+Frontend:<br/>
+* Axios
+* React-Router
+* React-Router-Dom
+* React-scripts
+* Material UI
+
+Backend:<br/>
+* Cors
+* Express
+* Dotenv
+* Morgan
+* Nodemon
+
 ## MVP
 - Web app built as an SPA(single-page app)
 - Use MongoDB to perform basic CRUD operation
