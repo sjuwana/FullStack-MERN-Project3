@@ -1,1 +1,3 @@
-# Book-Store-With-MERN-Stack
+# Library
+
+# To start the project, do NPM INSTALL and NPM START
