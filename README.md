@@ -93,6 +93,14 @@ Backend:<br/>
 - Books review
 - Feedback or comment
 
+## Wireframe
+
+<br/>
+<p align="center">
+    <img width="80%" src="https://i.ibb.co/SdxSFq9/wireframe-drawio.png" alt="Gif of our app">
+</p>
+<br/>
+
 ## Component Hierarchy
 
 <br/>
